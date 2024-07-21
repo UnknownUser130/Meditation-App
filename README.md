@@ -14,7 +14,7 @@ This is a mobile application built using Expo, React Native, and TypeScript, des
 
 To run this application locally, follow these steps:
 
-1. **Clone Repository**: `git clone https://github.com/your/repository.git`
+1. **Clone Repository**: `git clone https://github.com/UnknownUser130/repository.git`
 2. **Navigate to Project Directory**: `cd meditation-app`
 3. **Install Dependencies**: `npm install`
 4. **Start the Expo Server**: `npx expo start`
